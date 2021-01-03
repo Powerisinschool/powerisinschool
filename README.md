@@ -9,7 +9,7 @@ About me:
 - 🌱 I’m currently learning Node JS & PHP
 - 👯 I’m looking to collaborate on Anything, though I'm better with node
 - 💬 Ask me about Node
-- 📫 How to reach me: tolu.olagunju04@gmail.com
-- Portfolio: powerisinschool.github.io
+- 📫 How to reach me: [Email](contact@toluolagunju04.cf)
+- Portfolio: [My Portfolio](toluolagunju.ml)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Did you know that Node is so fast that even lightning can't catch it
