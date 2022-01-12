@@ -6,10 +6,10 @@
 About me:
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Node JS & PHP
-- 👯 I’m looking to collaborate on Anything, though I'm better with node
-- 💬 Ask me about Node
+- 🌱 I currently have some experience with Front-end(Angular, React and Flutter on the front-end), Back-end(Node.js, PHP, Dart (yes Dart for backend!) and Go)
+- 👯 I’m looking to collaborate on much, always looking to learn something new
+- 💬 Ask me about anything code
 - 📫 How to reach me: [Iykyk](example.com)
 - Portfolio: Lol
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Did you know that Node is so fast that even lightning can't catch it
+- ⚡ Fun fact: Facts aren't fun!
