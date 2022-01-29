@@ -6,8 +6,8 @@
 About me:
 
 
-- 🔭 I’m currently looking to work with others on projects.
-- 🌱 I currently have some experience with Front-end(Angular, React and Flutter on the front-end), Back-end(Node.js, PHP, Dart (yes Dart for backend!) and Go)
+- 🔭 I’m available to work on open source projects.
+<!-- - 🌱 I currently have some experience with Front-end(Angular, React and Flutter on the front-end), Back-end(Node.js, PHP, Dart (yes Dart for backend!) and Go) -->
 - 👯 I’m looking to collaborate on much, always looking to learn something new
 - 💬 I'm open to questions
 - 📫 How to reach me: [My Email](toolulopeolagunju@gmail.com)
