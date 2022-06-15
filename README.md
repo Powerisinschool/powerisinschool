@@ -12,6 +12,6 @@ About me:
 - 💬 I'm open to questions
 - 📫 How to reach me: [toolulopeolagunju@gmail.com](toolulopeolagunju@gmail.com)
 <!-- - Portfolio: -->
-- 😄 Pronouns: He / Him
+<!-- - 😄 Pronouns: He / Him -->
 - ⚡ Fun fact: Facts aren't fun! 😄
 - Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
