@@ -6,7 +6,7 @@
 About me:
 
 
-- 🔭 I’m available to work on open source projects.
+- 🔭 I’m available to work on projects utilizing GO, DART, JAVA, and PYTHON (Keras).
 <!-- - 🌱 I currently have some experience with Front-end(Angular, React and Flutter on the front-end), Back-end(Node.js, PHP, Dart (yes Dart for backend!) and Go) -->
 - 👯 I’m looking to collaborate on much, always looking to learn something new
 - 💬 I'm open to questions
