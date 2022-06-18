@@ -1,5 +1,13 @@
-### Hi, I am Tolulope Olagunju
-<img src="https://photos.app.goo.gl/UEjykg9MuNGgjX8X9" width="28">
+
+
+<br/>
+<h3 align="center">
+	<a href="https://powerisinschool.github.io/">Hi, I'm Tolulope Olagunju!</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a>
+<br/>
+
+<img src="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" width="28">
 
 
 <!--**Powerisinschool/powerisinschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
