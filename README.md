@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Tolulope Olagunju
+<img src="https://github.dev/Powerisinschool/powerisinschool/blob/e6da96d8abbb0519b43c40adbbbdf0ad5e6c6189/images/wave.gif" width="28">
 
 
 <!--**Powerisinschool/powerisinschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
