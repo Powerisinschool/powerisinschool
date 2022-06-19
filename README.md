@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co/3zS9gkh/Mask-group.png" alt="Profile" align="center" width="160">
   </a>
 </div>
-<br/>
+<!-- <br/> -->
 <h3 align="center">
 	<a href="https://powerisinschool.github.io/">Hi, I'm Tolulope Olagunju!</a>
   <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28">
