@@ -1,4 +1,6 @@
-<img src="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" align="center" width="28">
+<div align="center">
+  <img src="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" align="center" width="28">
+</div>
 
 <br/>
 <h3 align="center">
