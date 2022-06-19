@@ -7,7 +7,7 @@
 <br/>
 <h3 align="center">
 	<a href="https://powerisinschool.github.io/">Hi, I'm Tolulope Olagunju!</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28">
 </h3> <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a>
 <br/>
 
