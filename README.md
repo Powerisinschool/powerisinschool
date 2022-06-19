@@ -1,5 +1,7 @@
-<div href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" align="center">
-  <img src="https://i.ibb.co/yYLp9yb/IMG-20220611-235533-861.jpg" alt="Profile" align="center">
+<div align="center">
+  <a href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9">
+    <img src="https://i.ibb.co/yYLp9yb/IMG-20220611-235533-861.jpg" alt="Profile" align="center">
+  </a>
 </div>
 
 <br/>
