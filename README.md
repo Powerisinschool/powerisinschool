@@ -4,13 +4,13 @@
   </a>
 </div> -->
 <div align="center">
-  <a href="https://powerisinschool.github.io">
+  <a href="https://powerisinschool.github.io" target="_new">
     <img src="https://i.ibb.co/56DJKYQ/wave.gif" alt="Profile" align="center" width="160">
   </a>
 </div>
 <!-- <br/> -->
 <h1 align="center">
-	Hi, I'm <a href="https://powerisinschool.github.io/">Tolulope Olagunju!</a>
+	Hi, I'm <a href="https://powerisinschool.github.io/" target="_new">Tolulope Olagunju!</a>
   <!-- <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28"> -->
 </h1>
 <!-- <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a> -->
