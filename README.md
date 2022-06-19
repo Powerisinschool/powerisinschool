@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9">
-    <img src="https://i.ibb.co/3zS9gkh/Mask-group.png" alt="Profile" align="center" width="160">
+    <img src="https://i.ibb.co/DKqZv6c/me2.webp" alt="Profile" align="center" width="160">
   </a>
 </div>
 <!-- <br/> -->
