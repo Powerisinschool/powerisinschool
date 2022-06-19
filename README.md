@@ -1,6 +1,6 @@
-<a href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" align="center">
+<div href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9" align="center">
   <img src="https://i.ibb.co/yYLp9yb/IMG-20220611-235533-861.jpg" alt="Profile" align="center">
-</a>
+</div>
 
 <br/>
 <h3 align="center">
