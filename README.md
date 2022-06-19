@@ -10,9 +10,10 @@
 </div>
 <!-- <br/> -->
 <h3 align="center">
-	<a href="https://powerisinschool.github.io/">Hi, I'm Tolulope Olagunju!</a>
+	Hi, I'm <a href="https://powerisinschool.github.io/">Tolulope Olagunju!</a>
   <!-- <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28"> -->
-</h3> <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a>
+</h3>
+<!-- <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a> -->
 <br/>
 
 
