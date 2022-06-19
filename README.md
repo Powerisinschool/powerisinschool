@@ -1,3 +1,8 @@
+<!-- <div align="center">
+  <a href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9">
+    <img src="https://i.ibb.co/DKqZv6c/me2.webp" alt="Profile" align="center" width="160">
+  </a>
+</div> -->
 <div align="center">
   <a href="https://powerisinschool.github.io">
     <img src="https://i.ibb.co/56DJKYQ/wave.gif" alt="Profile" align="center" width="160">
@@ -6,7 +11,7 @@
 <!-- <br/> -->
 <h3 align="center">
 	<a href="https://powerisinschool.github.io/">Hi, I'm Tolulope Olagunju!</a>
-  <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28">
+  <!-- <img src="https://i.ibb.co/56DJKYQ/wave.gif" width="28"> -->
 </h3> <a href="https://github.com/Powerisinschool/Powerisinschool/"> </a>
 <br/>
 
