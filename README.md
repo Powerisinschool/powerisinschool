@@ -54,6 +54,6 @@ About me:
 
 ## Contribution Graph 📊
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Susmita-Dey&theme=chartreuse-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Powerisinschool&theme=chartreuse-dark" />
 
 <hr />
