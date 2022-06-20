@@ -22,14 +22,14 @@
 About me:
 
 
-- 🔭 I’m looking to work on projects utilizing GO, DART (including FLUTTER), JAVA, and PYTHON (ML with Tensorflow(Keras))
-- 👀 I’m looking to collaborate on much, always looking to learn something new
-- 💬 I would love to talk about anything
-- 💞️ I love to play chess, soccer and ping pong
-- 📫 How to reach me: [toolulopeolagunju@gmail.com](toolulopeolagunju@gmail.com)
+* 🔭 I’m looking to work on projects utilizing GO, DART (including FLUTTER), JAVA, and PYTHON (ML with Tensorflow(Keras))
+* 👀 I’m looking to collaborate on much, always looking to learn something new
+* 💬 I would love to talk about anything
+* 💞️ I love to play chess, soccer and ping pong
+* 📫 How to reach me: [toolulopeolagunju@gmail.com](toolulopeolagunju@gmail.com)
 <!-- - Portfolio: -->
-- ⚡ Fun fact: Facts aren't fun! 😄
-- Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
+* ⚡ Fun fact: Facts aren't fun! 😄
+* Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
