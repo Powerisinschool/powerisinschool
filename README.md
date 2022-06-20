@@ -33,7 +33,7 @@ About me:
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23e4626b.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%23e4626b.svg?style=for-the-badge&logo=dart&logoColor=%230075BA"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%23e4626b.svg?style=for-the-badge&logo=go&logoColor=%2329BEB0"/>
