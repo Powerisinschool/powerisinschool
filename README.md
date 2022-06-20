@@ -52,7 +52,7 @@ About me:
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
   <p align="center">
-  (<img alt="Tag" src="https://img.shields.io/badge/tag-%23000000.svg?style=for-the-badge"/>&nbsp;=&nbsp;major)
+  <img alt="Tag" src="https://img.shields.io/badge/tag-%23000000.svg?style=for-the-badge"/>&nbsp;=&nbsp;major
   </p>
 <br>
 
