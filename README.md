@@ -51,7 +51,7 @@ About me:
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe xd-%233a4aee.svg?style=for-the-badge&logo=adobe-xd&logoColor=140200" />
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
-  (Black = major)
+  (<img alt="Tag" src="https://img.shields.io/badge/tag-%23000000.svg?style=for-the-badge"/> = major)
 <br>
 
 <!-- ## Stats 📈 -->
