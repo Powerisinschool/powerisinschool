@@ -56,6 +56,11 @@ About me:
   </p>
 <br>
 
+<a href="https://www.twitter.com/TolulopeOlagun1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/TolulopeOlagun1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<br>
+
 <!-- ## Stats 📈 -->
 <details>
 	<summary> My GitHub Stats</summary>
