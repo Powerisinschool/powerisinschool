@@ -78,25 +78,3 @@ src="https://img.shields.io/twitter/follow/TolulopeOlagun1?logo=twitter&style=fo
 <img src="https://activity-graph.herokuapp.com/graph?username=Powerisinschool&theme=chartreuse-dark" />
 
 <hr />
-
-<a href="https://twitter.com/TolulopeOlagun1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @TolulopeOlagun1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-```js script
-// execute me
-window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-
-  return t;
-}(document, "script", "twitter-wjs"));
-```
