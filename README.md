@@ -26,7 +26,7 @@ About me:
 * 👀 I’m looking to collaborate on much, always looking to learn something new
 * 💬 I would love to talk about anything
 * 💞️ I love to play chess, soccer and table tennis
-* 📫 How to reach me: [toolulopeolagunju@gmail.com](toolulopeolagunju@gmail.com)
+* 📫 How to reach me: [toolulopeolagunju@gmail.com](mailto:toolulopeolagunju@gmail.com)
 <!-- - Portfolio: -->
 * ⚡ Fun fact: Facts aren't fun! 😄
 * Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
