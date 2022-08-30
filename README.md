@@ -22,7 +22,7 @@
 About me:
 
 
-* 🔭 I’m looking to work on projects utilizing GO, DART (including FLUTTER), JAVA, and PYTHON (ML with Tensorflow(Keras))
+* 🔭 I’m looking to work on projects utilizing GO, DART, JAVASCRIPT, and PYTHON
 * 👀 I’m looking to collaborate on much, always looking to learn something new
 * 💬 I would love to talk about anything
 * 💞️ I love to play chess, soccer and table tennis
