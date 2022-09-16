@@ -23,8 +23,8 @@ About me:
 
 
 * 🔭 I’m looking to work on projects utilizing GO, DART, JAVASCRIPT, and PYTHON
-* 👀 I’m looking to collaborate on much, always looking to learn something new
-* 💬 I would love to talk about anything
+* 👀 I’m looking to collaborate on much, always eager to learn something new
+* 💬 I love to talk about everything
 * 💞️ I love to play chess, soccer and table tennis
 * 📫 How to reach me: [toolulopeolagunju@gmail.com](mailto:toolulopeolagunju@gmail.com)
 <!-- - Portfolio: -->
