@@ -1,8 +1,3 @@
-<!-- <div align="center">
-  <a href="https://photos.app.goo.gl/ycZnqwLe5RjQeftb9">
-    <img src="https://i.ibb.co/DKqZv6c/me2.webp" alt="Profile" align="center" width="160">
-  </a>
-</div> -->
 <div align="center">
   <a href="https://powerisinschool.github.io" target="_new">
     <img src="https://i.ibb.co/56DJKYQ/wave.gif" alt="Profile" align="center" width="160">
@@ -27,9 +22,8 @@ About me:
 * 💬 I love to talk about everything
 * 💞️ I love to play chess, soccer and table tennis
 * 📫 How to reach me: [toolulopeolagunju@gmail.com](mailto:toolulopeolagunju@gmail.com)
-<!-- - Portfolio: -->
 * ⚡ Fun fact: Facts aren't fun! 😄
-* Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
+* 🦉 Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
@@ -62,19 +56,20 @@ src="https://img.shields.io/twitter/follow/TolulopeOlagun1?logo=twitter&style=fo
 <br>
 
 <!-- ## Stats 📈 -->
-<details>
-	<summary> My GitHub Stats</summary>
-<br>
-<p align="center">
-<a href="https://github.com/Powerisinschool">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Powerisinschool&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Powerisinschool&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
+<details style="cursor: pointer;">
+	<summary>My GitHub Stats 🔥</summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/Powerisinschool">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Powerisinschool&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Powerisinschool's GitHub stats" title="My GitHub stats" />
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Powerisinschool&theme=radical&layout=compact&langs_count=10&hide_border=true" alt="Powerisinschool's Programming languages" title="My Programming languages" />
+    </a>
+    <a href="https://github.com/Powerisinschool">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Powerisinschool&theme=radical&hide_border=true" />
+    </a>
+  </p>
 </details>
 
-## Contribution Graph 📊
+## Contribution Graph 📈
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Powerisinschool&theme=chartreuse-dark" />
-
-<hr />
+<img src="https://activity-graph.herokuapp.com/graph?username=Powerisinschool&theme=react-dark&hide_border=true" />
