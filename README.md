@@ -4,9 +4,9 @@
   </a>
 </div>
 <br/>
-<p style="font-size: 28px" align="center">
+<h1 style="font-size: 28px" align="center">
 	Hi, I'm <a href="https://powerisinschool.github.io/" target="_new">Tolulope Olagunju!</a>
-</p>
+</h1>
 <br />
 
 <!-- <p align="center">
