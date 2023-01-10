@@ -66,11 +66,8 @@ src="https://img.shields.io/twitter/follow/TolulopeOlagun1?logo=twitter&style=fo
 <br />
 <br />
 
-<!-- ## Stats 📈 -->
-<!-- <details style="cursor: pointer;"> -->
-## My GitHub Stats 🔥
-<!-- <summary></summary> -->
-<!-- <br> -->
+<!-- ## Stats 📈🔥 -->
+## My GitHub Stats 📈
 <br />
 <p align="center">
   <a href="https://github.com/Powerisinschool">
