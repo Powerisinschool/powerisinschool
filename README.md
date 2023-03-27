@@ -82,4 +82,4 @@ src="https://img.shields.io/twitter/follow/TolulopeOlagun1?logo=twitter&style=fo
 
 ## Contribution Graph 📈
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Powerisinschool&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Powerisinschool&theme=react-dark&hide_border=true" />
