@@ -19,8 +19,8 @@ About me:
 
 
 * 🔭 I’m looking to work on projects utilizing GO, DART, JAVASCRIPT, and PYTHON
-* 👀 I’m looking to collaborate on much, always eager to learn something new
-* 💬 I love to talk about everything
+* 👀 I’m looking to collaborate on anything, always eager to learn something new
+* 💬 I love to talk about tech
 * 💞️ I love to play chess, soccer and table tennis
 * 📫 How to reach me: [toolulopeolagunju@gmail.com](mailto:toolulopeolagunju@gmail.com)
 * ⚡ Fun fact: Facts aren't fun! 😄
