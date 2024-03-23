@@ -18,7 +18,7 @@
 About me:
 
 
-* 🔭 I’m looking to work on projects utilizing GO, DART, JAVASCRIPT, and PYTHON
+* 🔭 I’m looking to work on fun projects
 * 👀 I’m looking to collaborate on anything, always eager to learn something new
 * 💬 I love to talk about tech
 * 💞️ I love to play chess, soccer and table tennis
