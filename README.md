@@ -58,7 +58,7 @@ About me:
 <br>
 
 <a href="https://www.twitter.com/oj_tolu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/oj_tolu?style=for-the-badge&logo=x&color=black" /></a>
+src="https://img.shields.io/twitter/follow/oj_tolu?style=for-the-badge&logo=x&logoColor=purple&labelColor=white&color=purple" /></a>
 <br />
 <br />
 
