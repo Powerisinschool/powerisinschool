@@ -55,9 +55,6 @@ About me:
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe xd-%233a4aee.svg?style=for-the-badge&logo=adobe-xd&logoColor=140200" />
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
-  <p align="center">
-  <img alt="Tag" src="https://img.shields.io/badge/tag%20=%20major-%23000000.svg?style=for-the-badge"/>
-  </p>
 <br>
 
 <a href="https://www.twitter.com/TolulopeOlagun1" target="_blank" rel="noreferrer"><img
