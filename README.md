@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://powerisinschool.github.io" target="_new">
-    <img src="https://i.ibb.co/56DJKYQ/wave.gif" alt="Profile" align="center" width="100">
+    <img src="https://i.ibb.co/dPQGR2D/DKUAM7-X4-IKRTJB4-X.gif" alt="Profile Wave" align="center" width="100">
   </a>
 </div>
 <br/>
