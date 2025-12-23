@@ -22,7 +22,7 @@ About me:
 * 👀 I’m looking to collaborate on anything, always eager to learn something new
 * 💬 I love to talk about tech
 * 💞️ I love to play chess, soccer and table tennis
-* 📫 How to reach me: [toolulopeolagunju@gmail.com](mailto:toolulopeolagunju@gmail.com)
+* 📫 How to reach me: [tolu@olagunju.ng](mailto:tolu+github@olagunju.ng)
 * ⚡ Fun fact: Facts aren't fun! 😄
 * 🦉 Favourite quote: "You can never understand everything, but you should push yourself to understand the system" - Ryan Dahl
 
@@ -33,8 +33,7 @@ About me:
 <img alt="Dart" src="https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=%2329BEB0"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=%2329BEB0"/>
 <img alt="C" src="https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2329BEB0"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=%2329BEB0"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=%2329BEB0"/>
+<img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2329BEB0"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23000000.svg?style=for-the-badge&logo=nodejs&logoColor=%2329BEB0"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2329BEB0"/>
 <img alt="React" src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2329BEB0"/>
@@ -44,22 +43,15 @@ About me:
 <img alt="Keras" src="https://img.shields.io/badge/keras-%23000000.svg?style=for-the-badge&logo=keras&logoColor=%2329BEB0"/>
 <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=%2329BEB0"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=%2329BEB0"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=redhat&logoColor=140200"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23e4626b.svg?style=for-the-badge&logo=kotlin&logoColor=140200"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%2329BEB0"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=%2329BEB0"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<!-- <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/> -->
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23a259ff.svg?style=for-the-badge&logo=figma&logoColor=green" />
-<img alt="Adobe XD" src="https://img.shields.io/badge/adobe xd-%233a4aee.svg?style=for-the-badge&logo=adobe-xd&logoColor=140200" />
-<!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
 <br>
 
-<a href="https://www.twitter.com/oj_tolu" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/oj_tolu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oj_tolu?style=for-the-badge&logo=x&logoColor=purple&labelColor=white&color=purple" /></a>
-<br />
+<br /> -->
 <br />
 
 <!-- ## Stats 📈🔥 -->
