@@ -1,9 +1,16 @@
+@# Theme Declaration
 @theme bg = 0D1117 | F6F8FA
 @theme card = 161B22 | F6F8FA
 @theme accent = 14B8A6 | 0F766E
 @theme text = C9D1D9 | 24292F
 @theme num = FFFFFF | 1F2328
 @theme muted = 8B949E | 57606A
+
+@# Variable declaration
+@text domain = olagunju.ng
+@text email = tolu+github@{domain}
+@text github_username = Powerisinschool
+@text github_link = https://github.com/{github_username}
 
 @def badge(alt, label, logo) = ![{alt}](https://img.shields.io/badge/{label}-{card}?style=for-the-badge&logo={logo}&logoColor={accent})
 
@@ -14,8 +21,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color={accent}&center=true&vCenter=true&width=440&lines=Systems+%26+Low-Level+Engineer;Full-Stack+Web+Developer;CS+Student+%40+University+of+London)](https://git.io/typing-svg)
 
 <p>
-  [![Email](https://img.shields.io/badge/tolu%40olagunju.ng-{card}?style=for-the-badge&logo=gmail&logoColor={accent})](mailto:tolu+github@olagunju.ng)
-  [![Repositories](https://img.shields.io/badge/Repositories-{card}?style=for-the-badge&logo=github&logoColor={accent})](https://github.com/Powerisinschool?tab=repositories)
+  [![Email](https://img.shields.io/badge/tolu%40{domain}-{card}?style=for-the-badge&logo=gmail&logoColor={accent})](mailto:{email})
+  [![Repositories](https://img.shields.io/badge/Repositories-{card}?style=for-the-badge&logo=github&logoColor={accent})]({github_link}?tab=repositories)
 </p>
 
 > *"You can never understand everything, but you should push yourself to understand the system."* - Ryan Dahl
@@ -38,9 +45,9 @@
 
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
-| **[`swish_kernel`](https://github.com/Powerisinschool/swish_kernel)** | 64-bit bare-metal x86_64 OS kernel with Limine bootloader, PS/2 driver, VFS, shell, and double-buffered GUI compositor | `C++` `x86_64 Assembly` |
-| **[`blink-rs`](https://github.com/Powerisinschool/blink-rs)** | Minimal browser rendering engine inspired by Blink/LayoutNG with arena-allocated DOM, CSS parser, and fragment tree | `Rust` |
-| **[`mdr`](https://github.com/Powerisinschool/mdr)** | Extended Markdown compiler with custom parsing logic, used to generate this very README | `Rust` |
+| **[`swish_kernel`]({github_link}/swish_kernel)** | 64-bit bare-metal x86_64 OS kernel with Limine bootloader, PS/2 driver, VFS, shell, and double-buffered GUI compositor | `C++` `x86_64 Assembly` |
+| **[`blink-rs`]({github_link}/blink-rs)** | Minimal browser rendering engine inspired by Blink/LayoutNG with arena-allocated DOM, CSS parser, and fragment tree | `Rust` |
+| **[`mdr`]({github_link}/mdr)** | Extended Markdown compiler with custom parsing logic, used to generate this very README | `Rust` |
 | **`custom_gpt`** | Custom Large Language Model tokenizer and transformer inference engine built from scratch | `C++` |
 | **ESP32-C6 Smart Lock** | Bare-metal (`no_std`) embedded firmware implementing ECDSA P-256 signature verification over TCP/LAN | `Rust` `Embedded` |
 
@@ -90,16 +97,16 @@
 <div align="center">
 
 <p>
-  [![Tolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Powerisinschool&hide_border=true&count_private=true&show_icons=true&bg_color={bg}&title_color={accent}&icon_color={accent}&text_color={text}){height=175 live}](https://github.com/Powerisinschool)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Powerisinschool&layout=compact&langs_count=8&hide=ejs,html,css,Jupyter+Notebook&hide_border=true&bg_color={bg}&title_color={accent}&text_color={text}){height=175}](https://github.com/Powerisinschool)
+  [![Tolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username={github_username}&hide_border=true&count_private=true&show_icons=true&bg_color={bg}&title_color={accent}&icon_color={accent}&text_color={text}){height=175 live}]({github_link})
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&langs_count=8&hide=ejs,html,css,Jupyter+Notebook&hide_border=true&bg_color={bg}&title_color={accent}&text_color={text}){height=175}]({github_link})
 </p>
 
 <p>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Powerisinschool&hide_border=true&background={bg}&ring={accent}&fire={accent}&currStreakLabel={accent}&sideLabels={text}&currStreakNum={num}&sideNums={num}&dates={muted}){live}](https://github.com/Powerisinschool)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user={github_username}&hide_border=true&background={bg}&ring={accent}&fire={accent}&currStreakLabel={accent}&sideLabels={text}&currStreakNum={num}&sideNums={num}&dates={muted}){live}]({github_link})
 </p>
 
 <p>
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Powerisinschool&bg_color={bg}&color={text}&line={accent}&point={num}&area=true&area_color=14B8A6&hide_border=true){live}
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username={github_username}&bg_color={bg}&color={text}&line={accent}&point={num}&area=true&area_color=14B8A6&hide_border=true){live}
 </p>
 
 </div>
